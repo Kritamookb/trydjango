@@ -1,0 +1,22 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+bin/
+lib/
+
+# pyenv config
+pyvenv.cfg
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
